@@ -29,8 +29,8 @@ int main()
 			cout << endl << "Hora de la cita (formato 24hrs)" << endl;
 			cin >> hora;
 			break;
-
-			//Aquí es donde se introducen los datos del paciente, nombre, tratamiento, hora de cita, etc.
+// agregar descripcion del tratamietos costo cantidad y total
+			//AquÃ­ es donde se introducen los datos del paciente, nombre, tratamiento, hora de cita, etc.
 
 		case 2:
 			cout << endl << "Modificar cita" << endl;
